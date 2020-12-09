@@ -1,0 +1,13 @@
+{
+  "connectionInfo": {
+    "deviceIp": "0.0.0.0",
+    "socketPort": "8498",
+    "width": "1920",
+    "isDebugMode": true,
+    "baseAppPath": "d:\\vscodeProjects\\bbbb",
+    "hostIp": "192.168.0.111"
+  },
+  "profileInfo": {
+    "path": "c:\\Users\\USER\\.vscode\\extensions\\tizensdk.tizentv-1.2.2\\resource\\profiles.xml"
+  }
+}

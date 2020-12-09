@@ -1,0 +1,8 @@
+{
+    "tizentv.targetDeviceAddress": "0.0.0.0",
+    "tizentv.hostPCAddress": "192.168.0.111",
+    "tizentv.chromeExecutable": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "liveServer.settings.port": 5501,
+    "tizentv.excludeFiles": "",
+    "tizentv.simulatorExecutable": "C:\\Users\\USER\\Documents\\test\\platforms\\tizen-5.5\\tv-samsung\\emulator\\bin\\emulator-x86_64.exe"
+}
